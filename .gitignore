@@ -1,0 +1,2 @@
+# Ignore the solutions folder files so CMake create new files inside.
+Solutions/*
