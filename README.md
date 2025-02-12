@@ -10,7 +10,7 @@ Game using free assets from Kenney: https://www.kenney.nl/assets/tiny-dungeon
 
 **To launch:**
 
-1. Install CMake.
+1. Install CMake. (https://cmake.org/download/)
 2. In CMake, set the "Where is the source code" path to the Wavomancer folder.
 3. Set the "Where to build the binaries" path to the Solutions folder within the Wavomancer folder. (If there is no folder CMake will create it)
 4. Click "Configure."
